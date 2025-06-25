@@ -1,17 +1,17 @@
 const questions = [
   { text: "What is your name?", answers: ["Sakil", "your", "your name", "What is your name"] },
   { text: "What is your favorite color?", answers: ["Red", "Blue", "Green", "Yellow"] },
-  { text: "Identify the fruit from the image below", image: "/img/Image-1.jpeg", answers: ["কনক্রিট মিক্সার", "ভাইব্রেটর মেশিন", "রড বাঁকানোর মেশিন", "রড কাটার মেশিন"] },
+  { text: "Identify the fruit from the image below", image: "img/Image-1.jpeg", answers: ["কনক্রিট মিক্সার", "ভাইব্রেটর মেশিন", "রড বাঁকানোর মেশিন", "রড কাটার মেশিন"] },
   { text: "What is your favorite color?", answers: ["Red", "Blue", "Green", "Yellow"] },
   { text: "What is your favorite color?", answers: ["Red", "Blue", "Green", "Yellow"] },
-  { text: "Identify the landmark", image: "/img/Image-2.jpeg", answers: ["কনক্রিট মিক্সার", "ভাইব্রেটর মেশিন", "রড বাঁকানোর মেশিন", "জ্যাক হ্যামার"] },
+  { text: "Identify the landmark", image: "img/Image-2.jpeg", answers: ["কনক্রিট মিক্সার", "ভাইব্রেটর মেশিন", "রড বাঁকানোর মেশিন", "জ্যাক হ্যামার"] },
   { text: "What is your favorite color?", answers: ["Red", "Blue", "Green", "Yellow"] },
   { text: "What is your hobby?", answers: ["Reading", "Writing", "Coding", "Gaming"] },
   { text: "What is your name?", answers: ["Sakil", "your", "your name", "What is your name"] },
   { text: "What is your favorite color?", answers: ["Red", "Blue", "Green", "Yellow"] },
-  { text: "Identify the fruit from the image below", image: "/img/Image-3.jpeg", answers: ["কনক্রিট মিক্সার", "জ্যাক হ্যামার", "টোটাল স্টেশন/লেভেলিং যন্ত্র", "রড কাটার মেশিন"] },
+  { text: "Identify the fruit from the image below", image: "img/Image-3.jpeg", answers: ["কনক্রিট মিক্সার", "জ্যাক হ্যামার", "টোটাল স্টেশন/লেভেলিং যন্ত্র", "রড কাটার মেশিন"] },
   { text: "What is your favorite color?", answers: ["Red", "Blue", "Green", "Yellow"] },
-  { text: "Identify the landmark", image: "/img/Image-4.jpeg", answers: ["জ্যাক হ্যামার", " লেভেলিং যন্ত্র", "রড বাঁকানোর মেশিন", "রড কাটার মেশিন"] },
+  { text: "Identify the landmark", image: "img/Image-4.jpeg", answers: ["জ্যাক হ্যামার", " লেভেলিং যন্ত্র", "রড বাঁকানোর মেশিন", "রড কাটার মেশিন"] },
   { text: "What is your favorite color?", answers: ["Red", "Blue", "Green", "Yellow"] },
   { text: "What is your hobby?", answers: ["Reading", "Writing", "Coding", "Gaming"] }
 ];
