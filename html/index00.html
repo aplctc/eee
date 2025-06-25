@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Exam Interface</title>
+  <link rel="stylesheet" href="../css/style.css" />
+</head>
+<body>
+  <header>
+    <span>Exgam</span>
+    <div class="progress-container">
+      <div class="progress-bar" id="progressBar"></div>
+    </div>
+    <span>Student</span>
+    <div class="timer" id="timer">Time: 10:00</div>
+    <button class="finish-btn">Finish</button>
+  </header>
+
+  <div class="main">
+    <div class="sidebar" id="questionNav"></div>
+    <div class="content">
+      <div class="question" id="questionText"></div>
+      <img id="questionImage" class="question-image" src="" alt="" style="display: none;" />
+      <div class="answer" id="answerBox"></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <button onclick="prevQuestion()">Back</button>
+    <button onclick="nextQuestion()">Next</button>
+  </div>
+
+  <script src="../js/script.js"></script>
+</body>
+</html>
